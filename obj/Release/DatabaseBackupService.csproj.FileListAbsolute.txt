@@ -1,0 +1,7 @@
+D:\Desktop\Course 24\DatabaseBackupService\DatabaseBackupService\bin\Release\DatabaseBackupService.exe.config
+D:\Desktop\Course 24\DatabaseBackupService\DatabaseBackupService\bin\Release\DatabaseBackupService.exe
+D:\Desktop\Course 24\DatabaseBackupService\DatabaseBackupService\bin\Release\DatabaseBackupService.pdb
+D:\Desktop\Course 24\DatabaseBackupService\DatabaseBackupService\obj\Release\DatabaseBackupService.csproj.AssemblyReference.cache
+D:\Desktop\Course 24\DatabaseBackupService\DatabaseBackupService\obj\Release\DatabaseBackupService.csproj.CoreCompileInputs.cache
+D:\Desktop\Course 24\DatabaseBackupService\DatabaseBackupService\obj\Release\DatabaseBackupService.exe
+D:\Desktop\Course 24\DatabaseBackupService\DatabaseBackupService\obj\Release\DatabaseBackupService.pdb
