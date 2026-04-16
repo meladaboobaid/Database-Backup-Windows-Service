@@ -28,3 +28,7 @@ This service runs quietly in the background, executing standard SQL `BACKUP DATA
 ## ⚙️ Configuration
 
 Before installing or running the service, you must configure the `App.config` (which becomes `DatabaseBackupService.exe.config` after building) with your specific environment details. 
+
+## Best Practices
+
+You could remove the timer code that handles the intervals, instead of it better to use Task Scheduler in order to automate the intervals  
